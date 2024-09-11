@@ -11,6 +11,8 @@ https://medium.com/@rutikdevops/devops-project-4-31891d829c00
 - In this project I will create an AWS EC2 instance and install Jenkins on it. We will then set up a Github repository and integrate it with Jenkins. Next, we will configure Sonarqube to analyze code quality in our Github repository. Finally, we will create a Docker image of our application and deploy it using Jenkins.
 <br></br>
 
+
+
 # Project Steps :-
 - Create 3 ec2 instance :
 1. Jenkins-Server    : AWS Linux-2, t2 micro
